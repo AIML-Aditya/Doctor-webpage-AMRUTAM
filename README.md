@@ -2,6 +2,35 @@ Task 5: Doctor Web
 Developer: Aditya Sahu
 Tech Stack Used: React + React Router + TailwindCSS + React Helmet
 
+A responsive Doctor Appointment Booking Web App built using **React + TailwindCSS + React Router + React Helmet
+
+ Features
+
+- Browse doctor profiles
+- View specialty, experience, rating
+- Book an appointment form
+- Login & Register Pages
+- Dashboard & Appointment history pages
+- Reusable components
+- SEO optimized pages using Helmet
+- Responsive UI with TailwindCSS
+
+  Tech Stack
+  
+React, React Router, TailwindCSS, React Helmet
+
+ Installation & Run Locally
+
+bash
+git clone https://github.com/your-username/doctor-portal.git
+cd doctor-portal
+npm install
+npm run dev
+
+
+Project will run at the localhost URL shown in terminal.
+
+
 1 Objective
 To build a modern and responsive Doctor Appointment Booking Portal where users can:
 • Browse doctors by specialty

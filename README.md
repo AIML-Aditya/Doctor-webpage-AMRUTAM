@@ -2,8 +2,6 @@ Task 5: Doctor Web
 Developer: Aditya Sahu
 Tech Stack Used: React + React Router + TailwindCSS + React Helmet
 
-A responsive Doctor Appointment Booking Web App built using **React + TailwindCSS + React Router + React Helmet
-
  Features
 
 - Browse doctor profiles
@@ -15,9 +13,6 @@ A responsive Doctor Appointment Booking Web App built using **React + TailwindCS
 - SEO optimized pages using Helmet
 - Responsive UI with TailwindCSS
 
-  Tech Stack
-  
-React, React Router, TailwindCSS, React Helmet
 
  Installation & Run Locally
 

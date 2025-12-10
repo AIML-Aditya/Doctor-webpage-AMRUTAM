@@ -22,7 +22,7 @@ React, React Router, TailwindCSS, React Helmet
  Installation & Run Locally
 
 bash
-git clone https://github.com/your-username/doctor-portal.git
+git clone https://github.com/AIML-Aditya/Doctor-webpage-AMRUTAM/
 cd doctor-portal
 npm install
 npm run dev
